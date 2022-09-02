@@ -1,0 +1,2 @@
+# Qustion-Answering-on-Stanford-dataset
+whenever, question up to our mind we run to Google or any browser  and it give us many links with details, so our QA system give you  specific information about your order without many links and a lot of  details We are making our own QA system that was built on squad  data set. The system will take the questions and the context from the users as  inputs and analyze them, then gives the user the needed answer based  on how relevant the questions are to the answer.
